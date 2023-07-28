@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+    background-color: aquamarine;
+  }
+  
+#color{
+    background-color: bisque;
+    width: 300px;
+    margin-left: 350px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+  #countdown {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
